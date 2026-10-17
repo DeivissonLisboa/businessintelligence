@@ -1,7 +1,7 @@
 ---
 title: "Ferramentas"
 summary: "Panorama das principais ferramentas e camadas que compõem uma plataforma de Business Intelligence."
-date: 2026-10-11
+date:
 tags: ["BI", "Ferramentas"]
 author: ["Deivisson Lisboa"]
 ---
