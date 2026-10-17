@@ -1,0 +1,42 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>
+    {{ .Title }}
+  </h1>
+</header>
+
+{{- $order := slice
+  "o-que-e-bi-e-evolucao"
+  "ferramentas"
+  "big-data-analytics-e-analises-preditivas"
+  "dashboards-e-visualizacao"
+  "bi-na-contabilidade-e-financas"
+  "self-service-governanca-e-qualidade-de-dados"
+  "aplicacoes-e-casos"
+  "tendencias"
+-}}
+
+{{- range $slug := $order }}
+  {{- $page := site.GetPage (printf "posts/%s" $slug) }}
+  {{- with $page }}
+<article class="post-entry">
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">
+      {{- .Title }}
+    </h2>
+  </header>
+  {{- if (ne (.Param "hideSummary") true) }}
+  <div class="entry-content">
+    <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+  </div>
+  {{- end }}
+  <footer class="entry-footer">
+    {{- partial "post_meta.html" . -}}
+  </footer>
+  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+</article>
+  {{- end }}
+{{- end }}
+
+{{- end }}{{/* end main */}}
