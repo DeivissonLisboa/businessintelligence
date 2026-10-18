@@ -1,5 +1,5 @@
 ---
-title: "Meu Site"
+title: "Business Intelligence"
 description: "Bem-vindo ao site do SIG da UFC!"
 ---
 

@@ -1,6 +1,6 @@
 baseURL = 'http://localhost/'
 languageCode = 'pt-BR'
-title = 'Meu Site'
+title = 'Business Intelligence'
 theme = 'hugo-PaperMod'
 
 # Tema padrão: forçar tema claro
