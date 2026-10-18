@@ -8,6 +8,10 @@ theme = 'hugo-PaperMod'
 defaultTheme = 'light'
 ShowPostNavLinks = true
 
+# Ícone do site (arquivos copiados para static/)
+[params.assets]
+favicon = 'favicon.ico'
+
 # Menu principal (mesmo formato do site demo do PaperMod)
 # Itens com URL externa (contendo "://") ganham automaticamente
 # o ícone de link externo (seta ↗) no menu.
