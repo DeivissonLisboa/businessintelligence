@@ -3,6 +3,10 @@ languageCode = 'pt-BR'
 title = 'Meu Site'
 theme = 'hugo-PaperMod'
 
+# Tema padrão: forçar tema claro
+[params]
+defaultTheme = 'light'
+
 # Menu principal (mesmo formato do site demo do PaperMod)
 # Itens com URL externa (contendo "://") ganham automaticamente
 # o ícone de link externo (seta ↗) no menu.
