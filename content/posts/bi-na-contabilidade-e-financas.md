@@ -5,4 +5,8 @@ weight: 5
 date:
 tags: ["BI", "Contabilidade", "Finanças"]
 author: ["Deivisson Lisboa"]
+cover:
+  image: ""
+  hiddenInList: true
+  hiddenInSingle: true
 ---

@@ -5,4 +5,8 @@ weight: 8
 date:
 tags: ["BI", "Tendências"]
 author: ["Deivisson Lisboa"]
+cover:
+  image: ""
+  hiddenInList: true
+  hiddenInSingle: true
 ---

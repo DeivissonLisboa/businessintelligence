@@ -5,4 +5,8 @@ weight: 1
 date:
 tags: ["BI", "Fundamentos"]
 author: ["Deivisson Lisboa"]
+cover:
+  image: ""
+  hiddenInList: true
+  hiddenInSingle: true
 ---

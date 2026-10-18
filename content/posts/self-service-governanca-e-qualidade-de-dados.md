@@ -5,4 +5,8 @@ weight: 6
 date:
 tags: ["BI", "Governança", "Qualidade de Dados"]
 author: ["Deivisson Lisboa"]
+cover:
+  image: ""
+  hiddenInList: true
+  hiddenInSingle: true
 ---

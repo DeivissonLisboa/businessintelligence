@@ -5,4 +5,8 @@ weight: 2
 date:
 tags: ["BI", "Ferramentas"]
 author: ["Deivisson Lisboa"]
+cover:
+  image: ""
+  hiddenInList: true
+  hiddenInSingle: true
 ---

@@ -5,4 +5,8 @@ weight: 7
 date:
 tags: ["BI", "Casos"]
 author: ["Deivisson Lisboa"]
+cover:
+  image: ""
+  hiddenInList: true
+  hiddenInSingle: true
 ---

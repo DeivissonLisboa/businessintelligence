@@ -5,4 +5,8 @@ weight: 3
 date:
 tags: ["BI", "Big Data", "Analytics"]
 author: ["Deivisson Lisboa"]
+cover:
+  image: ""
+  hiddenInList: true
+  hiddenInSingle: true
 ---
