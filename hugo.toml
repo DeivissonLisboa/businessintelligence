@@ -6,6 +6,7 @@ theme = 'hugo-PaperMod'
 # Tema padrão: forçar tema claro
 [params]
 defaultTheme = 'light'
+ShowPostNavLinks = true
 
 # Menu principal (mesmo formato do site demo do PaperMod)
 # Itens com URL externa (contendo "://") ganham automaticamente
