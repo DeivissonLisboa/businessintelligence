@@ -7,10 +7,13 @@
        - largura: largura da imagem (opcional, padrão "160px")
        - conteúdo entre as tags: título, renderizado como Markdown */ -}}
 {{- $img := .Get "img" -}}
+{{- if not (hasPrefix $img "/") -}}
+{{- $img = printf "/%s" $img -}}
+{{- end -}}
 {{- $alt := .Get "alt" | default "" -}}
 {{- $largura := .Get "largura" | default "160px" -}}
 <div class="lado-a-lado">
-    <img class="lado-a-lado__imagem" src="{{ $img | relURL }}" alt="{{ $alt }}" style="width: {{ $largura }};">
+    <img class="lado-a-lado__imagem" src="{{ $img | absURL }}" alt="{{ $alt }}" style="width: {{ $largura }};">
     {{- /* markdownify já converte "# Título" em <h1 id="..."> */}}
     <div class="lado-a-lado__titulo">{{ .Inner | markdownify }}</div>
 </div>

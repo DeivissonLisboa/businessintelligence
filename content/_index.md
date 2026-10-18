@@ -3,7 +3,7 @@ title: "Business Intelligence"
 description: ""
 ---
 
-{{< lado-a-lado img="/images/logo.jpg" alt="Logo do 39º CICLO" largura="180px" >}}
+{{< lado-a-lado img="images/logo.jpg" alt="Logo do 39º CICLO" largura="180px" >}}
 # 39º CICLO DE SEMINÁRIOS DE TECNOLOGIA DE APOIO A GESTÃO
 {{< /lado-a-lado >}}
 
