@@ -1,0 +1,34 @@
+/* Shortcode "lado-a-lado": imagem à esquerda e título à direita. */
+.lado-a-lado {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.lado-a-lado__imagem {
+    flex: 0 0 auto;
+    height: auto;
+}
+
+.lado-a-lado__titulo {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.lado-a-lado__titulo h1 {
+    margin: 0;
+    font-size: 32px;
+}
+
+/* Em telas estreitas, empilha: imagem em cima, título embaixo. */
+@media (max-width: 600px) {
+    .lado-a-lado {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 16px;
+    }
+
+    .lado-a-lado__titulo h1 {
+        font-size: 28px;
+    }
+}

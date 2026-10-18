@@ -1,0 +1,16 @@
+{{- /* Coloca uma imagem e um título lado a lado (imagem à esquerda).
+       Uso: {{< lado-a-lado img="/images/logo.jpg" alt="Texto alternativo" largura="180px" >}}
+            # Título em Markdown
+            {{< /lado-a-lado >}}
+       - img: caminho da imagem (obrigatório)
+       - alt: texto alternativo da imagem (opcional)
+       - largura: largura da imagem (opcional, padrão "160px")
+       - conteúdo entre as tags: título, renderizado como Markdown */ -}}
+{{- $img := .Get "img" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $largura := .Get "largura" | default "160px" -}}
+<div class="lado-a-lado">
+    <img class="lado-a-lado__imagem" src="{{ $img | relURL }}" alt="{{ $alt }}" style="width: {{ $largura }};">
+    {{- /* markdownify já converte "# Título" em <h1 id="..."> */}}
+    <div class="lado-a-lado__titulo">{{ .Inner | markdownify }}</div>
+</div>
