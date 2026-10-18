@@ -17,6 +17,9 @@ url = "publicacoes"
 weight = 2
 
 [[menu.main]]
-name = "Evento"
+name = "Seminário"
 url = "https://www.youtube.com/@TIEMFOCO"
 weight = 3
+[menu.main.params]
+target = "_blank"
+rel = "noopener noreferrer"
