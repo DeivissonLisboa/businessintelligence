@@ -6,20 +6,8 @@
   </h1>
 </header>
 
-{{- $order := slice
-  "o-que-e-bi-e-evolucao"
-  "ferramentas"
-  "big-data-analytics-e-analises-preditivas"
-  "dashboards-e-visualizacao"
-  "bi-na-contabilidade-e-financas"
-  "self-service-governanca-e-qualidade-de-dados"
-  "aplicacoes-e-casos"
-  "tendencias"
--}}
-
-{{- range $slug := $order }}
-  {{- $page := site.GetPage (printf "posts/%s" $slug) }}
-  {{- with $page }}
+{{- $pages := sort (where site.RegularPages "Section" "posts") "Weight" }}
+{{- range $pages }}
 <article class="post-entry">
   <header class="entry-header">
     <h2 class="entry-hint-parent">
@@ -36,7 +24,6 @@
   </footer>
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
-  {{- end }}
 {{- end }}
 
 {{- end }}{{/* end main */}}
