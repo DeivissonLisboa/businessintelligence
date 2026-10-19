@@ -27,8 +27,8 @@ Após a realização do seminário, ele ficará disponível no canal [TI EM FOCO
 Breve curriculo
 {{< /lado-a-lado >}}
 
-{{< lado-a-lado img="images/logo.jpg" alt="" largura="180px" >}}
-### Felipe Castro - função/empresa
+{{< lado-a-lado img="images/foto_palestrante_felipe.jpg" alt="Palestrante Felipe Castro" largura="180px" >}}
+### Felipe Castro - Castro Gestão Financeira
 
-Breve curriculo
+Contador, Gestor Financeiro, Especialista em Direito Tributário e Pós-Graduando em Finanças Corporativas. Atua BPO, Diagnóstico e Gestão Financeira.
 {{< /lado-a-lado >}}

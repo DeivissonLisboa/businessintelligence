@@ -16,7 +16,7 @@ favicon = 'favicon.ico'
 # Itens com URL externa (contendo "://") ganham automaticamente
 # o ícone de link externo (seta ↗) no menu.
 [[menu.main]]
-name = "Sobre"
+name = "Sobre Nós"
 url = "sobre"
 weight = 1
 
