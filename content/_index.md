@@ -15,8 +15,20 @@ O foco será na evolução das soluções de BI — desde os tradicionais relat�
 
 - **Data:** 03/11/2026
 - **Horário:** 9h às 10h30
-- **Local:** a definir
+- **Local:** Auditório Sudário de Aguiar Cunha - Faculdade de Ciências Contábeis da UFBA
 
-## Convidadas
+Após a realização do seminário, ele ficará disponível no canal [TI EM FOCO](https://www.youtube.com/@TIEMFOCO)
 
-A definir
+## Convidados
+
+{{< lado-a-lado img="images/logo.jpg" alt="" largura="180px" >}}
+### Caio Reis - função/empresa
+
+Breve curriculo
+{{< /lado-a-lado >}}
+
+{{< lado-a-lado img="images/logo.jpg" alt="" largura="180px" >}}
+### Felipe Castro - função/empresa
+
+Breve curriculo
+{{< /lado-a-lado >}}
