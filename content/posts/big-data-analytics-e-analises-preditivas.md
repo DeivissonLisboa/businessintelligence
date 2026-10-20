@@ -4,7 +4,6 @@ summary: "Conceitos de Big Data e os tipos de análise: descritiva, diagnóstica
 weight: 3
 date:
 tags: ["BI", "Big Data", "Analytics"]
-author: ["Deivisson Lisboa"]
 cover:
   image: ""
   hiddenInList: true

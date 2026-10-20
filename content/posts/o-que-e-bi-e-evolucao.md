@@ -4,7 +4,6 @@ summary: "Introdução ao conceito de Business Intelligence, seus pilares e a ev
 weight: 1
 date: "2026-08-19"
 tags: ["BI", "Fundamentos"]
-author: ["Deivisson Lisboa"]
 cover:
   image: ""
   hiddenInList: true

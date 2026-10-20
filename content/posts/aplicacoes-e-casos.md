@@ -4,7 +4,6 @@ summary: "Exemplos de aplicações e casos de uso de Business Intelligence em di
 weight: 7
 date:
 tags: ["BI", "Casos"]
-author: ["Deivisson Lisboa"]
 cover:
   image: ""
   hiddenInList: true

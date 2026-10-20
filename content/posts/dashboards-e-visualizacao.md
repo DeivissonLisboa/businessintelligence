@@ -4,7 +4,6 @@ summary: "Boas práticas de dashboards e visualização de dados para comunicar 
 weight: 4
 date:
 tags: ["BI", "Dashboards", "Visualização"]
-author: ["Deivisson Lisboa"]
 cover:
   image: ""
   hiddenInList: true
