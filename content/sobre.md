@@ -5,7 +5,7 @@ cover:
   image: "images/foto_FCC.jpg"
 ---
 
-## FCC046 - SISTEMA INFORMACAO GERENCIAL (SIG) 
+## FCC046 - SISTEMA INFORMAÇÃO GERENCIAL (SIG) 
 
 A disciplina tem caracter obrigatório e faz parte da grade curricular do 7º semestre do curso de **Ciências Contábeis da Universidade Federal da Bahia (UFBA)**. Em sua ementa, tem por objetivo geral discutir o papel estratégico da informação e da tecnologia e os desafios na definição da Arquitetura de Informação organizacional.
 
@@ -32,8 +32,8 @@ Após a realização do seminário, ele ficará disponível no [**canal TI EM FO
 Breve curriculo
 {{< /lado-a-lado >}}
 
-{{< lado-a-lado img="images/foto_palestrante_felipe.jpg" alt="Palestrante Felipe Castro" largura="180px" >}}
-### Felipe Castro - Castro Gestão Financeira
+{{< lado-a-lado img="images/logo.jpg" alt="Palestrante Felipe Castro" largura="180px" >}}
+### Felipe Silveira de Castro - Castro Gestão Financeira
 
 Contador, Gestor Financeiro, Especialista em Direito Tributário e Pós-Graduando em Finanças Corporativas. Atua BPO, Diagnóstico e Gestão Financeira.
 {{< /lado-a-lado >}}

@@ -17,7 +17,7 @@ O foco será na evolução das soluções de BI — desde os tradicionais relat�
 - **Horário:** 9h às 10h30
 - **Local:** Auditório Sudário de Aguiar Cunha - Faculdade de Ciências Contábeis da UFBA
 
-Após a realização do seminário, ele ficará disponível no canal [TI EM FOCO](https://www.youtube.com/@TIEMFOCO)
+Após a realização do seminário, ele ficará disponível no [**canal TI EM FOCO**](https://www.youtube.com/@TIEMFOCO)
 
 ## Convidados
 
@@ -27,8 +27,8 @@ Após a realização do seminário, ele ficará disponível no canal [TI EM FOCO
 Breve curriculo
 {{< /lado-a-lado >}}
 
-{{< lado-a-lado img="images/foto_palestrante_felipe.jpg" alt="Palestrante Felipe Castro" largura="180px" >}}
-### Felipe Castro - Castro Gestão Financeira
+{{< lado-a-lado img="images/logo.jpg" alt="Palestrante Felipe Castro" largura="180px" >}}
+### Felipe Silveira de Castro - Castro Gestão Financeira
 
 Contador, Gestor Financeiro, Especialista em Direito Tributário e Pós-Graduando em Finanças Corporativas. Atua BPO, Diagnóstico e Gestão Financeira.
 {{< /lado-a-lado >}}
