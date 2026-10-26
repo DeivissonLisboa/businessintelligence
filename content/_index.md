@@ -1,34 +1,11 @@
 ---
 title: "Business Intelligence"
-description: ""
+heroCaption: "39º CICLO DE SEMINÁRIOS DE TECNOLOGIA DE APOIO A GESTÃO" # eyebrow above the title; defaults to the author name
+heroLead: "seminário abordando o conceito de **Business Intelligence** (BI) e a evolução de suas soluções tecnológicas, destacando seu impacto estratégico em diversas áreas organizacionais para a geração de vantagem competitiva."
+heroButtons:
+  - label: "Get started"
+    url: "/docs/installation/"
+  - label: "Explore the docs"
+    url: "/docs/"
+    style: "outline" # "primary" (default) or "outline"
 ---
-
-{{< lado-a-lado img="images/logo.jpg" alt="Logo do 39º CICLO" largura="180px" >}}
-# 39º CICLO DE SEMINÁRIOS DE TECNOLOGIA DE APOIO A GESTÃO
-{{< /lado-a-lado >}}
-
-O seminário abordará o conceito de **Business Intelligence (BI)** como conjunto de estratégias, processos, tecnologias e ferramentas utilizadas para transformar dados brutos em informações relevantes para a tomada de decisão organizacional.
-
-O foco será na evolução das soluções de BI — desde os tradicionais relatórios gerenciais até plataformas modernas de análise preditiva, big data e inteligência aumentada —, enfatizando como BI impacta áreas como Contabilidade, Finanças, Marketing e Operações, gerando vantagem competitiva para as organizações.
-
-## Informações
-
-- **Data:** 03/11/2026
-- **Horário:** 9h às 10h30
-- **Local:** Auditório Sudário de Aguiar Cunha - Faculdade de Ciências Contábeis da UFBA
-
-Após a realização do seminário, ele ficará disponível no [**canal TI EM FOCO**](https://www.youtube.com/@TIEMFOCO)
-
-## Convidados
-
-{{< lado-a-lado img="images/logo.jpg" alt="" largura="180px" >}}
-### Caio Reis - função/empresa
-
-Breve curriculo
-{{< /lado-a-lado >}}
-
-{{< lado-a-lado img="images/logo.jpg" alt="Palestrante Felipe Castro" largura="180px" >}}
-### Felipe Silveira de Castro - Castro Gestão Financeira
-
-Contador, Gestor Financeiro, Especialista em Direito Tributário e Pós-Graduando em Finanças Corporativas. Atua BPO, Diagnóstico e Gestão Financeira.
-{{< /lado-a-lado >}}

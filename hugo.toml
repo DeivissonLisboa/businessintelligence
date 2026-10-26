@@ -1,34 +1,3 @@
-baseURL = 'http://localhost/'
-languageCode = 'pt-BR'
-title = 'Business Intelligence'
-theme = 'hugo-PaperMod'
-
-# Tema padrão: forçar tema claro
-[params]
-defaultTheme = 'light'
-ShowPostNavLinks = true
-
-# Ícone do site (arquivos copiados para static/)
-[params.assets]
-favicon = 'favicon.ico'
-
-# Menu principal (mesmo formato do site demo do PaperMod)
-# Itens com URL externa (contendo "://") ganham automaticamente
-# o ícone de link externo (seta ↗) no menu.
-[[menu.main]]
-name = "Sobre Nós"
-url = "sobre"
-weight = 1
-
-[[menu.main]]
-name = "Publicações"
-url = "publicacoes"
-weight = 2
-
-[[menu.main]]
-name = "Seminário"
-url = "https://www.youtube.com/@TIEMFOCO"
-weight = 3
-[menu.main.params]
-target = "_blank"
-rel = "noopener noreferrer"
+baseURL = 'https://example.org/'
+locale = 'pt-br'
+title = 'My New Hugo Project'
