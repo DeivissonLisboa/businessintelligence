@@ -4,10 +4,6 @@ summary: "Aplicações de Business Intelligence na contabilidade e nas finanças
 weight: 5
 date:
 tags: ["BI", "Contabilidade", "Finanças"]
-cover:
-  image: ""
-  hiddenInList: true
-  hiddenInSingle: true
 ---
 
 em construção

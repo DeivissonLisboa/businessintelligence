@@ -4,10 +4,6 @@ summary: "Exemplos de aplicações e casos de uso de Business Intelligence em di
 weight: 7
 date:
 tags: ["BI", "Casos"]
-cover:
-  image: "img/bg.jpg"
-  hiddenInList: true
-  hiddenInSingle: true
 ---
 
 em construção

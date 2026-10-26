@@ -4,10 +4,6 @@ summary: "Boas práticas de dashboards e visualização de dados para comunicar 
 weight: 4
 date:
 tags: ["BI", "Dashboards", "Visualização"]
-cover:
-  image: ""
-  hiddenInList: true
-  hiddenInSingle: true
 ---
 
 em construção

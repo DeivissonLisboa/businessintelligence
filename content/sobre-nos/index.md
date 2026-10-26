@@ -1,8 +1,6 @@
 ---
 title: "Sobre Nós"
 description: ""
-cover:
-  image: "images/foto_FCC.jpg"
 ---
 
 ## FCC046 - SISTEMA INFORMAÇÃO GERENCIAL (SIG) 

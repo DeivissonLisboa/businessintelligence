@@ -2,12 +2,8 @@
 title: "O que é BI e evolução"
 summary: "Introdução ao conceito de Business Intelligence, seus pilares e a evolução histórica até a BI moderna."
 weight: 1
-date: "2026-08-19"
+date: "2026-10-19"
 tags: ["BI", "Fundamentos"]
-cover:
-  image: ""
-  hiddenInList: true
-  hiddenInSingle: true
 ---
 
 
