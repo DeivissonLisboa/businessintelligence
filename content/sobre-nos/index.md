@@ -71,6 +71,6 @@ E-Mail: nogueiran@ufba.br
 
 ## Tecnologias utilizadas
 
-Este site foi construído com Hugo, um gerador de sites estáticos escrito em Go, utilizando o tema PaperMod. O conteúdo é escrito em Markdown com metadados em YAML, e a configuração geral fica em hugo.toml. Pequenas personalizações de layout e estilo foram feitas com HTML e CSS próprios. A publicação é automatizada com GitHub Actions, que gera o site e o disponibiliza no GitHub Pages a cada atualização na branch principal. Por ser um site estático, dispensa banco de dados e servidor de aplicação, o que o torna rápido, seguro e de baixo custo de manutenção.
+Este site foi construído com Hugo, um gerador de sites estáticos escrito em Go, utilizando o tema Blowfish. O conteúdo é escrito em Markdown com metadados em YAML, e a configuração geral fica em hugo.toml. Pequenas personalizações de layout e estilo foram feitas com HTML e CSS próprios. A publicação é automatizada com GitHub Actions, que gera o site e o disponibiliza no GitHub Pages a cada atualização na branch principal. Por ser um site estático, dispensa banco de dados e servidor de aplicação, o que o torna rápido, seguro e de baixo custo de manutenção.
 
 Sugestões de alteração e melhorias podem ser enviadas pelo repositório do projeto no [GitHub](https://github.com/DeivissonLisboa/businessintelligence).
