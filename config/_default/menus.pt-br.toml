@@ -12,18 +12,18 @@
 
 [[main]]
  name = "Sobre nós"
- pageRef = "posts"
+ pageRef = "sobre-nos"
  weight = 10
 
 [[main]]
  name = "Publicações"
- pageRef = "posts"
+ pageRef = "publicacoes"
  weight = 20
 
 	[[main]]
 	 pre = "youtube"
 	 name = "Seminário"
-	 url = "https://youtube.com"
+	 url = "https://www.youtube.com/@TIEMFOCO"
 	 weight = 30
 
 # [[main]]

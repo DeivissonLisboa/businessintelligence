@@ -5,7 +5,7 @@ weight: 7
 date:
 tags: ["BI", "Casos"]
 cover:
-  image: ""
+  image: "img/bg.jpg"
   hiddenInList: true
   hiddenInSingle: true
 ---
