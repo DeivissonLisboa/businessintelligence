@@ -15,7 +15,7 @@ O seminário abordará o conceito de **Business Intelligence (BI)** como conjunt
 O foco será na evolução das soluções de BI — desde os tradicionais relatórios gerenciais até plataformas modernas de análise preditiva, big data e inteligência aumentada —, enfatizando como BI impacta áreas como Contabilidade, Finanças, Marketing e Operações, gerando vantagem competitiva para as organizações.
 
 > [!TIP]
-> Nosso seminário acontecerá no dia **03/11/2026** das **9h às 10h30** no Auditório Sudário de Aguiar Cunha - **Faculdade de Ciências Contábeis da UFBA**.
+> Nosso seminário acontecerá no dia **03/11/2026** das **9h às 10h30** na **sala 4.1 - Faculdade de Ciências Contábeis da UFBA**.
 
 
 Após a realização do seminário, ele ficará disponível no [**canal TI EM FOCO**](https://www.youtube.com/@TIEMFOCO)

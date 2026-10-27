@@ -17,7 +17,7 @@ Do Big Data à inteligência aumentada.
 BI aplicado às diferentes áreas do negócio.
 {{< /feature >}}
 {{< feature icon="wand-magic-sparkles" title="Seminário Business Intelligence" url="https://www.youtube.com/@TIEMFOCO" label="Assista aqui" >}}
-Acontecerá no dia **03/11/2026** das **9h às 10h30** no Auditório Sudário de Aguiar Cunha - **Faculdade de Ciências Contábeis da UFBA** e também estará disponivel em nosso youtube.
+Acontecerá no dia **03/11/2026** das **9h às 10h30** na **sala 4.1 - Faculdade de Ciências Contábeis da UFBA** e também estará disponivel em nosso youtube.
 {{< /feature >}}
 {{< /feature-grid >}}
 
