@@ -30,3 +30,7 @@ Trabalho na área administrativa da Petrobras na geração de informações cons
 {{< lado-a-lado img="img/foto_felipe.jpg" alt="Palestrante Felipe Castro" nome="Felipe Silveira de Castro - Gestor Financeiro" funcao="Castro Gestão Financeira" >}}
 Contador, Gestor Financeiro, Especialista em Direito Tributário e Pós-Graduando em Finanças Corporativas. Atua BPO, Diagnóstico e Gestão Financeira.
 {{< /lado-a-lado >}}
+
+
+{{< cta url="https://www.youtube.com/@TIEMFOCO" label="Assista ao Seminário" >}}
+
