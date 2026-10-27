@@ -1,19 +1,53 @@
-{{- /* Coloca uma imagem e um título lado a lado (imagem à esquerda).
-       Uso: {{< lado-a-lado img="/images/logo.jpg" alt="Texto alternativo" largura="180px" >}}
-            # Título em Markdown
-            {{< /lado-a-lado >}}
-       - img: caminho da imagem (obrigatório)
-       - alt: texto alternativo da imagem (opcional)
-       - largura: largura da imagem (opcional, padrão "160px")
-       - conteúdo entre as tags: título, renderizado como Markdown */ -}}
+{{- /*
+  Shortcode para apresentação de participante/palestrante.
+
+  Uso:
+  {{< lado-a-lado
+      img="/images/palestrantes/nome.jpg"
+      alt="Nome do participante"
+      nome="Nome do Participante"
+      funcao="Cargo ou função"
+  >}}
+  Breve resumo do currículo do participante.
+  {{< /lado-a-lado >}}
+*/ -}}
+
 {{- $img := .Get "img" -}}
 {{- if hasPrefix $img "/" -}}
-{{- $img = strings.TrimPrefix "/" $img -}}
+  {{- $img = strings.TrimPrefix "/" $img -}}
 {{- end -}}
+
 {{- $alt := .Get "alt" | default "" -}}
-{{- $largura := .Get "largura" | default "160px" -}}
-<div class="lado-a-lado">
-    <img class="lado-a-lado__imagem" src="{{ $img | relURL }}" alt="{{ $alt }}" style="width: {{ $largura }};">
-    {{- /* markdownify já converte "# Título" em <h1 id="..."> */}}
-    <div class="lado-a-lado__titulo">{{ .Inner | markdownify }}</div>
-</div>
+{{- $nome := .Get "nome" | default "" -}}
+{{- $funcao := .Get "funcao" | default "" -}}
+
+<article class="group flex flex-col gap-10 mb-6 rounded-2xl border border-neutral-200/80 bg-white/60 px-6 py-3 shadow-sm backdrop-blur-xl transition duration-200 hover:-translate-y-1 hover:border-primary-300 hover:shadow-xl hover:shadow-primary-500/10 dark:border-neutral-800 dark:bg-neutral-900/50 dark:hover:border-primary-700 sm:flex-row sm:items-center sm:gap-12">
+
+  <div class="shrink-0">
+    <img
+      class="w-36 rounded-2xl object-cover shadow-sm"
+      src="{{ $img | relURL }}"
+      alt="{{ $alt }}"
+      loading="lazy"
+    >
+  </div>
+
+  <div class="min-w-0 flex-1 self-center">
+
+    <h3 class="text-lg font-bold text-neutral-900 dark:text-white">
+      {{ $nome | markdownify }}
+    </h3>
+
+    {{- with $funcao }}
+      <p class="mt-1 text-sm font-bold text-primary-600 dark:text-primary-400">
+        {{ . | markdownify }}
+      </p>
+    {{- end }}
+
+    <div class="mt-2 text-sm leading-6 text-neutral-600 dark:text-neutral-400">
+      {{ .Inner | markdownify }}
+    </div>
+
+  </div>
+
+</article>
