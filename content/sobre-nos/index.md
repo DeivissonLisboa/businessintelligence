@@ -14,41 +14,33 @@ O seminário abordará o conceito de **Business Intelligence (BI)** como conjunt
 
 O foco será na evolução das soluções de BI — desde os tradicionais relatórios gerenciais até plataformas modernas de análise preditiva, big data e inteligência aumentada —, enfatizando como BI impacta áreas como Contabilidade, Finanças, Marketing e Operações, gerando vantagem competitiva para as organizações.
 
-### Informações
+> [!TIP]
+> Nosso seminário acontecerá no dia **03/11/2026** das **9h às 10h30** no Auditório Sudário de Aguiar Cunha - **Faculdade de Ciências Contábeis da UFBA**.
 
-- **Data:** 03/11/2026
-- **Horário:** 9h às 10h30
-- **Local:** Auditório Sudário de Aguiar Cunha - Faculdade de Ciências Contábeis da UFBA
 
 Após a realização do seminário, ele ficará disponível no [**canal TI EM FOCO**](https://www.youtube.com/@TIEMFOCO)
 
-### Convidados
+### Nossos convidados
 
-{{< lado-a-lado img="images/logo.jpg" alt="" largura="180px" >}}
-### Caio Reis - função/empresa
-
-Breve curriculo
+{{< lado-a-lado img="img/foto_caio.jpg" alt="Palestrante Caio Reis" nome="Caio Reis - TI com Business Intelligence" funcao="Petrobras" >}}
+Trabalho na área administrativa da Petrobras na geração de informações consolidadas, utilizando ferramentas de Business Intelligence - BI, VBA e SapScript.
 {{< /lado-a-lado >}}
 
-{{< lado-a-lado img="images/logo.jpg" alt="Palestrante Felipe Castro" largura="180px" >}}
-### Felipe Silveira de Castro - Castro Gestão Financeira
-
+{{< lado-a-lado img="img/foto_felipe.jpg" alt="Palestrante Felipe Castro" nome="Felipe Silveira de Castro - Gestor Financeiro" funcao="Castro Gestão Financeira" >}}
 Contador, Gestor Financeiro, Especialista em Direito Tributário e Pós-Graduando em Finanças Corporativas. Atua BPO, Diagnóstico e Gestão Financeira.
 {{< /lado-a-lado >}}
 
 
 ## Organizadores/discentes
 
-{{< lado-a-lado img="images/logo.jpg" alt="graduanda Amanda Sousa" largura="180px" >}}
-### Amanda Almeida de Paula Sousa
+{{< lado-a-lado img="img/logo.jpg" alt="graduanda Amanda Sousa" nome="Amanda Almeida de Paula Sousa" >}}
 
 Graduanda em Ciências Contábeis UFBA
 
 [LinkedIn](#)
 {{< /lado-a-lado >}}
 
-{{< lado-a-lado img="images/foto_deivisson.png" alt="graduando Deivisson Lisboa" largura="180px" >}}
-### Deivisson Vila Flor Lisboa
+{{< lado-a-lado img="img/foto_deivisson.png" alt="graduando Deivisson Lisboa" nome="Deivisson Vila Flor Lisboa" >}}
 
 Graduando em Ciências Contábeis UFBA
 
@@ -58,12 +50,11 @@ Graduando em Ciências Contábeis UFBA
 
 ## Professor Resposável
 
-{{< lado-a-lado img="images/foto_professor.jpeg" alt="professor Arlindino Neto" largura="180px" >}}
-### Prof. Dr. Arlindino Nogueira Silva Neto
+{{< lado-a-lado img="img/foto_professor.jpeg" alt="professor Arlindino Neto" nome="Prof. Dr. Arlindino Nogueira Silva Neto" >}}
 
 Professor titular da Faculdade de Ciências Contábeis
 
-E-Mail: nogueiran@ufba.br
+E-mail: nogueiran@ufba.br
 {{< /lado-a-lado >}}
 
 
