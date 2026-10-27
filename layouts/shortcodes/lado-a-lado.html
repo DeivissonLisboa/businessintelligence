@@ -17,6 +17,16 @@
   {{- $img = strings.TrimPrefix "/" $img -}}
 {{- end -}}
 
+{{- /* Arquivos em assets/ só são publicados quando passam pelo Hugo Pipes.
+       Sem resources.Get, o caminho aponta para um arquivo inexistente em public/. */ -}}
+{{- $src := "" -}}
+{{- with resources.Get $img -}}
+  {{- $src = .RelPermalink -}}
+{{- else -}}
+  {{- warnf "lado-a-lado: imagem %q não encontrada em assets/. Verifique assets/%s" $img $img -}}
+  {{- $src = $img | relURL -}}
+{{- end -}}
+
 {{- $alt := .Get "alt" | default "" -}}
 {{- $nome := .Get "nome" | default "" -}}
 {{- $funcao := .Get "funcao" | default "" -}}
@@ -26,7 +36,7 @@
   <div class="shrink-0">
     <img
       class="w-36 rounded-2xl object-cover shadow-sm"
-      src="{{ $img | relURL }}"
+      src="{{ $src }}"
       alt="{{ $alt }}"
       loading="lazy"
     >
