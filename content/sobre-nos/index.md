@@ -33,7 +33,7 @@ Contador, Gestor Financeiro, Especialista em Direito Tributário e Pós-Graduand
 
 ## Organizadores/discentes
 
-{{< lado-a-lado img="img/logo.jpg" alt="graduanda Amanda Sousa" nome="Amanda Almeida de Paula Sousa" >}}
+{{< lado-a-lado img="img/foto_amanda.jpeg" alt="graduanda Amanda Sousa" nome="Amanda Almeida de Paula Sousa" >}}
 
 Graduanda em Ciências Contábeis UFBA
 
