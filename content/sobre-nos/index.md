@@ -22,7 +22,7 @@ Após a realização do seminário, ele ficará disponível no [**canal TI EM FO
 
 ### Nossos convidados
 
-{{< lado-a-lado img="img/foto_caio.jpg" alt="Palestrante Caio Reis" nome="Caio Reis - TI com Business Intelligence" funcao="Petrobras" >}}
+{{< lado-a-lado img="img/foto_caio.jpeg" alt="Palestrante Caio Reis" nome="Caio Reis - TI com Business Intelligence" funcao="Petrobras" >}}
 Trabalho na área administrativa da Petrobras na geração de informações consolidadas, utilizando ferramentas de Business Intelligence - BI, VBA e SapScript.
 {{< /lado-a-lado >}}
 
