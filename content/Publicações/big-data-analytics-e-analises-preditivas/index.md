@@ -8,6 +8,12 @@ tags: ["BI", "Big Data", "Analytics"]
 
 O Big Data refere-se ao processamento de volumes massivos de dados estruturados e não estruturados, definidos pelos "5 Vs" (Volume, Velocidade, Variedade, Veracidade e Valor). Ele utiliza infraestrutura distribuída para gerar inteligência acionável, dividindo-se em quatro tipos principais de análise: descritiva, diagnóstica, preditiva e prescritiva[^1].
 
+
+
+{{< youtube id="IBHOJI2hR2A" >}}
+
+
+
 ## Conceitos Fundamentais de Big Data (Os 5 Vs)
 
 ### Conceito
