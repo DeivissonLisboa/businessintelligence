@@ -2,7 +2,7 @@
 title: "Dashboards e visualização"
 summary: "Boas práticas de dashboards e visualização de dados para comunicar insights com clareza."
 weight: 4
-date:
+date: "2026-10-29"
 tags: ["BI", "Dashboards", "Visualização"]
 ---
 
